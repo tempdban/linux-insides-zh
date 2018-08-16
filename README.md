@@ -44,7 +44,7 @@
 | 3. [Interrupts](https://github.com/MintCN/linux-insides-zh/tree/master/Interrupts)||正在进行|
 |├ [3.0](https://github.com/MintCN/linux-insides-zh/blob/master/Interrupts/README.md)|[@littleneko](https://github.com/littleneko)|更新至[57279321](https://github.com/0xAX/linux-insides/commit/5727932167a2ff6a1e647081c85d081d4ed8b508)|
 |├ [3.1](https://github.com/MintCN/linux-insides-zh/blob/master/Interrupts/linux-interrupts-1.md)||未开始|
-|├ [3.2](https://github.com/MintCN/linux-insides-zh/blob/master/Interrupts/linux-interrupts-2.md)|[@narcijie](https://github.com/narcijie)|正在进行|
+|├ [3.2](https://github.com/MintCN/linux-insides-zh/blob/master/Interrupts/linux-interrupts-2.md)|[@narcijie](https://github.com/narcijie)|更新至[4d635117](https://github.com/0xAX/linux-insides/commit/4d6351172486e5c046a7d3db2286fc0d0d0d7789)|
 |├ [3.3](https://github.com/MintCN/linux-insides-zh/blob/master/Interrupts/linux-interrupts-3.md)||未开始|
 |├ [3.4](https://github.com/MintCN/linux-insides-zh/blob/master/Interrupts/linux-interrupts-4.md)||未开始|
 |├ [3.5](https://github.com/MintCN/linux-insides-zh/blob/master/Interrupts/linux-interrupts-5.md)||未开始|
@@ -57,8 +57,8 @@
 |├ [4.0](https://github.com/MintCN/linux-insides-zh/blob/master/SysCall/README.md)|[@mudongliang](https://github.com/mudongliang)|更新至[194d0c83](https://github.com/0xAX/linux-insides/commit/194d0c83e3273c6167830c29d9ba13ec57bfbcb6)|
 |├ [4.1](https://github.com/MintCN/linux-insides-zh/blob/master/SysCall/linux-syscall-1.md)|[@qianmoke](https://github.com/qianmoke)|已完成|
 |├ [4.2](https://github.com/MintCN/linux-insides-zh/blob/master/SysCall/linux-syscall-2.md)|[@qianmoke](https://github.com/qianmoke)|已完成|
-|├ [4.3](https://github.com/MintCN/linux-insides-zh/blob/master/SysCall/linux-syscall-3.md)||未开始|
-|├ [4.4](https://github.com/MintCN/linux-insides-zh/blob/master/SysCall/linux-syscall-4.md)||未开始|
+|├ [4.3](https://github.com/MintCN/linux-insides-zh/blob/master/SysCall/linux-syscall-3.md)|[@Newester](https://github.com/Newester)|正在进行|
+|├ [4.4](https://github.com/MintCN/linux-insides-zh/blob/master/SysCall/linux-syscall-4.md)|[@Newester](https://github.com/Newester)|正在进行|
 |├ [4.5](https://github.com/MintCN/linux-insides-zh/blob/master/SysCall/linux-syscall-5.md)||未开始|
 |└ [4.6](https://github.com/MintCN/linux-insides-zh/blob/master/SysCall/linux-syscall-6.md)||未开始|
 | 5. [Timers and time management](https://github.com/MintCN/linux-insides-zh/tree/master/Timers)||正在进行|
@@ -89,7 +89,7 @@
 |├ [9.1](https://github.com/MintCN/linux-insides-zh/blob/master/Concepts/linux-cpu-1.md)|[@up2wing](https://github.com/up2wing)|更新至[28a39fe6](https://github.com/0xAX/linux-insides/commit/28a39fe6653e780641e80ab6e37c79ffafca07b0#diff-0460583622f03a52d7693094d6fa2452)|
 |├ [9.2](https://github.com/MintCN/linux-insides-zh/blob/master/Concepts/linux-cpu-2.md)|[@up2wing](https://github.com/up2wing)|更新至[28a39fe6](https://github.com/0xAX/linux-insides/commit/28a39fe6653e780641e80ab6e37c79ffafca07b0#diff-0460583622f03a52d7693094d6fa2452)|
 |├ [9.3](https://github.com/MintCN/linux-insides-zh/blob/master/Concepts/linux-cpu-3.md)|[@up2wing](https://github.com/up2wing)|更新至[28a39fe6](https://github.com/0xAX/linux-insides/commit/28a39fe6653e780641e80ab6e37c79ffafca07b0#diff-0460583622f03a52d7693094d6fa2452)|
-|└ [9.4](https://github.com/MintCN/linux-insides-zh/blob/master/Concepts/linux-cpu-3.md)||未开始|
+|└ [9.4](https://github.com/MintCN/linux-insides-zh/blob/master/Concepts/linux-cpu-4.md)||未开始|
 | 10. [DataStructures](https://github.com/MintCN/linux-insides-zh/tree/master/DataStructures)||已完成|
 |├ [10.0](https://github.com/MintCN/linux-insides-zh/blob/master/DataStructures/README.md)|[@mudongliang](https://github.com/mudongliang)|更新至[99138e09](https://github.com/0xAX/linux-insides/commit/99138e0932dc25bf6c90dd102a70a6d15589e9ab)|
 |├ [10.1](https://github.com/MintCN/linux-insides-zh/blob/master/DataStructures/linux-datastructures-1.md)|[@oska874](http://github.com/oska874) [@mudongliang](https://github.com/mudongliang)|已完成|
